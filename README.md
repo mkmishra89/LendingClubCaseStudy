@@ -1,11 +1,12 @@
 # LendingClubCaseStudy
 
 ## General Information
-This project is basicaly for case study for loan data and we want to highlight loan risk to loan approver based on the data.
-we are going to help the bank offiser to be insure before accept loan from loan borrower.
+This project is basically for case study on loan data and identification of potential risk during approvals and disbursement of loans to baneficieries by the investors of the lending club.
+This analysis will also highlight the historical data analysis against various categories and measures .
+This analysis aims at ensuring the lending club not to miss any potential oppurtunity for a good investment .
 
 ## Technologies Used
- # Pyhton 3.0.1
+ # Python 3.0.1
 
 ## Contact
 feel free to contact us !
