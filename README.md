@@ -1,4 +1,4 @@
-# LendingClubCaseStudy
+# Lending Club Case Study
 
 ## General Information
 This project is basically for case study on loan data and identification of potential risk during approvals and disbursement of loans to baneficieries by the investors of the lending club.
